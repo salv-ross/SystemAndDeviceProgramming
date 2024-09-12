@@ -1,0 +1,13 @@
+{
+  "new_shortcut_modif": "CONTROL",
+  "new_shortcut_key": "N",
+  "save_shortcut_modif": "CONTROL",
+  "save_shortcut_key": "S",
+  "undo_shortcut_modif": "CONTROL",
+  "undo_shortcut_key": "Z",
+  "redo_shortcut_modif": "CONTROL",
+  "redo_shortcut_key": "Y",
+  "default_location": "",
+  "cancel_shortcut_modif": "CONTROL",
+  "cancel_shortcut_key": "C"
+}
